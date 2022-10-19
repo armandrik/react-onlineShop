@@ -1,5 +1,5 @@
 # react-onlineShop
-its a full responsive Todo that i created with react
+its a full responsive online shop that i created with react
 
 use npm i for install dependency
 
