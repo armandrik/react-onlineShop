@@ -7,7 +7,7 @@ i build this project whit :
 - React
 - Context
 - useContext
-- Ract router dom
+- React router dom
 - Material ui
 - React Alice Carousel
 - Axios
