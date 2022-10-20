@@ -5,12 +5,14 @@ use npm i for install dependency
 
 i build this project whit :
 - React
+- Context
+- useContext
 - Ract router dom
+- Material ui
 - React Alice Carousel
-- chart js
-- Pagination
 - Axios
-- useNavigate
+- Sweet alert
+- react rating
 - useState
-- useRef
 - useEffect
+- props
